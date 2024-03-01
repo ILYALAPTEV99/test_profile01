@@ -50,6 +50,10 @@ header {
     cursor: pointer;
 }
 
+.header_btn:hover{
+    background-color: aqua;
+}
+
 .header_btn:hover {
     transform: scale(1.05);
 }
